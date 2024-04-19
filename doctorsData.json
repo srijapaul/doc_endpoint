@@ -1,0 +1,41 @@
+
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Dr. John Doe",
+        "specialization": "General Medicine",
+        "schedule": {
+          "monday": {
+            "available": true,
+            "slots": ["6:00 PM", "7:00 PM", "8:00 PM"]
+          },
+          "tuesday": {
+            "available": true,
+            "slots": ["6:00 PM", "7:00 PM", "8:00 PM"]
+          },
+          "wednesday": {
+            "available": true,
+            "slots": ["6:00 PM", "7:00 PM", "8:00 PM"]
+          },
+          "thursday": {
+            "available": true,
+            "slots": ["6:00 PM", "7:00 PM", "8:00 PM"]
+          },
+          "friday": {
+            "available": true,
+            "slots": ["6:00 PM", "7:00 PM", "8:00 PM"]
+          },
+          "saturday": {
+            "available": true,
+            "slots": ["6:00 PM", "7:00 PM", "8:00 PM"]
+          },
+          "sunday": {
+            "available": false,
+            "slots": []
+          }
+        }
+      }
+    ]
+  }
+  
